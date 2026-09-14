@@ -23,5 +23,6 @@ int main () {
     passbyref(a);
     cout << "angka yang kamu masukan sebelumnya : " << a << endl ;
     
+    cin >> a;
     return 0 ;
 }
